@@ -9,6 +9,8 @@
 - 📝	**Studying B.Tech in Artificial Intelligence & Data Science**
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
 ## Programming Language
 
 <p align = "center">
