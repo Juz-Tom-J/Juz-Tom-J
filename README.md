@@ -8,7 +8,6 @@
 - 🎮    **Gaming Enthusiast**
 - 📝	**Studying B.Tech in Artificial Intelligence & Data Science**
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
-___
 
 ## Programming Language
 
@@ -20,7 +19,6 @@ ___
 <img src = https://img.icons8.com/color/344/html-5--v1.png width = 100 height = 100>
 <img src = https://img.icons8.com/ios-filled/344/mysql.png width = 100 height = 100>
 </p>
-___
 
 ## Tools
 
@@ -30,7 +28,6 @@ ___
 <img src = https://img.icons8.com/color/344/adobe-premiere-pro--v1.png width = 100 height = 100>
 <img src = https://img.icons8.com/officel/344/obs-studio.png width = 100 height = 100>
 </p>
-___
 
 ## Get In Touch
 
