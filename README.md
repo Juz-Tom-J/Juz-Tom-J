@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Howdy 🤠	
 # I am Justin Thomas Jo 
@@ -40,3 +41,9 @@ ___
 
 
 
+=======
+<img src = https://github.com/Juz-Tom-J/Juz-Tom-J/blob/8515ad73130a6b3a2f4ad4bf33d21c9695915558/cybermatrix.gif width = 1400 height = 200>
+
+
+# Hello I'm Justin Thomas Jo
+>>>>>>> 6e24bd895050ce984f5fa592f773d5e04a2fb0ce
