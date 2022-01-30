@@ -10,7 +10,7 @@
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
 
 ### Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{jayasankar-shyam}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Juz-Tom-J}/count.svg)
 
 ## Programming Language
 
