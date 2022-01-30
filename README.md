@@ -9,12 +9,8 @@
 - 📝	**Studying B.Tech in Artificial Intelligence & Data Science**
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
 
-let targetUrl = 'https://github.com/Juz-Tom-J';
-fetch(`https://hitcounter.pythonanywhere.com/count?url=${encodeURIComponent(targetUrl)}`, {
-    credentials: 'include'
-})
-    .then(res => res.text())
-    .then(count => console.log('Count: ' + count))
+### Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{jayasankar-shyam}/count.svg)
 
 ## Programming Language
 
