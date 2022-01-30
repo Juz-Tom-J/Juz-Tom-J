@@ -24,7 +24,7 @@
 
 <p align = "center">
 <img src = https://img.icons8.com/color/344/visual-studio-code-2019.png width = 100 height = 100>
-<img src = https://img.icons8.com/offices/344/java-eclipse.png width = 100 height = 100)
+<img src = https://img.icons8.com/offices/344/java-eclipse.png width = 100 height = 100>
 <img src = https://img.icons8.com/color/344/adobe-premiere-pro--v1.png width = 100 height = 100>
 <img src = https://img.icons8.com/officel/344/obs-studio.png width = 100 height = 100>
 </p>
