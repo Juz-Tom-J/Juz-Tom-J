@@ -12,27 +12,34 @@ ___
 
 ## Programming Language
 
-![C]<img src = https://img.icons8.com/color/344/c-programming.png width = 100 height = 100>
-![C++](https://img.icons8.com/color/344/c-plus-plus-logo.png)
-![JAVA](https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png)
-![Python](https://img.icons8.com/color/344/python--v1.png)
-![HTML](https://img.icons8.com/color/344/html-5--v1.png)
-![SQL](https://img.icons8.com/ios-filled/344/mysql.png)
+<p align = "center">
+<img src = https://img.icons8.com/color/344/c-programming.png width = 100 height = 100>
+<img src = https://img.icons8.com/color/344/c-plus-plus-logo.png width = 100 height = 100>
+<img src = https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png width = 100 height = 100>
+<img src = https://img.icons8.com/color/344/python--v1.png width = 100 height = 100>
+<img src = https://img.icons8.com/color/344/html-5--v1.png width = 100 height = 100>
+<img src = https://img.icons8.com/ios-filled/344/mysql.png width = 100 height = 100>
+</p>
 ___
 
 ## Tools
 
-![Visual Studio](https://img.icons8.com/color/344/visual-studio-code-2019.png)
-![Eclipse](https://img.icons8.com/offices/344/java-eclipse.png)
-![Premier Pro](https://img.icons8.com/color/344/adobe-premiere-pro--v1.png)
-![OBS Studio](https://img.icons8.com/officel/344/obs-studio.png)
+<p align = "center">
+<img src = https://img.icons8.com/color/344/visual-studio-code-2019.png width = 100 height = 100>
+<img src = https://img.icons8.com/offices/344/java-eclipse.png width = 100 height = 100)
+<img src = https://img.icons8.com/color/344/adobe-premiere-pro--v1.png width = 100 height = 100>
+<img src = https://img.icons8.com/officel/344/obs-studio.png width = 100 height = 100>
+</p>
 ___
 
 ## Get In Touch
 
-[![LinkedIn](https://img.icons8.com/plasticine/344/linkedin.png)](https://linkedin.com/in/justin-thomas-670545a6)
-[![Instagram](https://img.icons8.com/plasticine/344/instagram-new--v2.png)](https://instagram.com/juz_ti_n)
-[![Facebook](https://img.icons8.com/plasticine/344/facebook-new.png)](https://facebook.com/juz.tom.j.31)
-[![Snapchat](https://img.icons8.com/plasticine/344/snapchat.png)](https://www.snapchat.com/add/justin.310701)
-[![Discord](https://img.icons8.com/plasticine/344/discord-logo.png)](https://discordapp.com/users/Juz_Tom_J#6004)
-[![WhatsApp](https://img.icons8.com/plasticine/344/whatsapp.png)](https://web.whatsapp.com/send?phone=+971552380563)
+<p align = "center">
+<a href = https://linkedin.com/in/justin-thomas-670545a6><img src = https://img.icons8.com/plasticine/344/linkedin.png width = 100 height = 100></a>
+<a href = https://instagram.com/juz_ti_n><img src = https://img.icons8.com/plasticine/344/instagram-new--v2.png width = 100 height = 100></a>
+<a href = https://facebook.com/juz.tom.j.31><img src = https://img.icons8.com/plasticine/344/facebook-new.png width = 100 height = 100></a>
+<a href = https://www.snapchat.com/add/justin.310701><img src = https://img.icons8.com/plasticine/344/snapchat.png width = 100 height = 100></a>
+<a href = https://www.discordapp.com/users/Juz-Tom-J#6004><img src = https://img.icons8.com/plasticine/344/discord-logo.png width = 100 height = 100></a>
+<a href = https://web.whatsapp.com/send?phone=+971552380563><img src = https://img.icons8.com/plasticine/344/whatsapp.png width = 100 height = 100></a>
+</p>
+<br/>
