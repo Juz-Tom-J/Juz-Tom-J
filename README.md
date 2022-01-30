@@ -12,7 +12,7 @@ ___
 
 ## Programming Language
 
-![C](https://img.icons8.com/color/344/c-programming.png)
+![C]<img src = https://img.icons8.com/color/344/c-programming.png width = 30 height = 30>
 ![C++](https://img.icons8.com/color/344/c-plus-plus-logo.png)
 ![JAVA](https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png)
 ![Python](https://img.icons8.com/color/344/python--v1.png)
