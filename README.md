@@ -9,7 +9,12 @@
 - 📝	**Studying B.Tech in Artificial Intelligence & Data Science**
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+let targetUrl = 'https://github.com/Juz-Tom-J';
+fetch(`https://hitcounter.pythonanywhere.com/count?url=${encodeURIComponent(targetUrl)}`, {
+    credentials: 'include'
+})
+    .then(res => res.text())
+    .then(count => console.log('Count: ' + count))
 
 ## Programming Language
 
