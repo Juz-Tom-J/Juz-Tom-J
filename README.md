@@ -13,7 +13,7 @@
 - 🎮    **Gaming Enthusiast**
 - 📝	**Studying B.Tech in Artificial Intelligence & Data Science**
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
--  ** 📬Reach out: Feel free to** <a href="mailto:justinthomas10235@gmail.com">mail me</a><br>
+-  ** 📬Reach out: Feel free to <a href="mailto:justinthomas10235@gmail.com">mail me</a><br>**
 
 ### Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{Juz-Tom-J}/count.svg)
