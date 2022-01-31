@@ -13,7 +13,6 @@
 - 🎮    **Gaming Enthusiast**
 - 📝	**Studying B.Tech in Artificial Intelligence & Data Science**
 - 🧑‍💻	 **Currently upping my skills in C,JAVA,Python,Premiere Pro**
--  ** 📬Reach out: Feel free to <a href="mailto:justinthomas10235@gmail.com">mail me</a><br>**
 
 ### Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{Juz-Tom-J}/count.svg)
@@ -49,3 +48,8 @@
 <a href = https://web.whatsapp.com/send?phone=+971552380563><img src = https://img.icons8.com/plasticine/344/whatsapp.png width = 100 height = 100></a>
 </p>
 <br/>
+
+## 📊 My Github Stats
+
+<a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juz-Tom-J&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juz-Tom-J&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
