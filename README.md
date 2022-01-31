@@ -44,7 +44,7 @@
 <a href = https://instagram.com/juz_ti_n><img src = https://img.icons8.com/plasticine/344/instagram-new--v2.png width = 100 height = 100></a>
 <a href = https://facebook.com/juz.tom.j.31><img src = https://img.icons8.com/plasticine/344/facebook-new.png width = 100 height = 100></a>
 <a href = https://www.snapchat.com/add/justin.310701><img src = https://img.icons8.com/plasticine/344/snapchat.png width = 100 height = 100></a>
-<a href = https://www.discordapp.com/users/Juz-Tom-J#6004><img src = https://img.icons8.com/plasticine/344/discord-logo.png width = 100 height = 100></a>
+<a href = https://www.discordapp.com/users/Justin-Thomas-Jo#6004><img src = https://img.icons8.com/plasticine/344/discord-logo.png width = 100 height = 100></a>
 <a href = https://web.whatsapp.com/send?phone=+971552380563><img src = https://img.icons8.com/plasticine/344/whatsapp.png width = 100 height = 100></a>
 </p>
 <br/>
