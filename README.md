@@ -40,7 +40,7 @@
 ## Get In Touch
 
 <p align = "center">
-<a href = mailto:justinthomas10235@gmail.com><img src = https://img.icons8.com/color/344/gmail--v1.png width = 100 height = 100></a>
+<a href = mailto:justinthomas10235@gmail.com><img src = https://img.icons8.com/color/344/gmail--v1.png width = 100 height = 95></a>
 <a href = https://linkedin.com/in/justin-thomas-670545a6><img src = https://img.icons8.com/plasticine/344/linkedin.png width = 100 height = 100></a>
 <a href = https://instagram.com/juz_ti_n><img src = https://img.icons8.com/plasticine/344/instagram-new--v2.png width = 100 height = 100></a>
 <a href = https://facebook.com/juz.tom.j.31><img src = https://img.icons8.com/plasticine/344/facebook-new.png width = 100 height = 100></a>
