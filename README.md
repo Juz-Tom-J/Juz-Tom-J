@@ -58,8 +58,10 @@
 <a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juz-Tom-J&theme=blue-green&bg_color=0D1117" align="center" /></a><br>
 
 <a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Juz-Tom-J&theme=blue-green&bg_color=0D1117" align="right" /></a><br>
-  <br/>
+ 
   
 ## 🐍 How About A Game Of Snake And Cubes?
 
 ![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.svg)
+
+ <br/>
