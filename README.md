@@ -63,5 +63,6 @@
 ## 🐍 How About A Game Of Snake And Cubes?
 
 ![snake gif](https://github.com/alankudakkad17/alankudakkad17/blob/output/github-contribution-grid-snake.svg)
+<br>
 
  <br/>
