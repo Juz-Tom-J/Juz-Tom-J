@@ -21,8 +21,8 @@
 
 <p align = "center">
 <img src = https://img.icons8.com/color/344/c-programming.png width = 100 height = 100>
-<img src = https://img.icons8.com/color/344/c-plus-plus-logo.png width = 100 height = 100>
 <img src = https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png width = 100 height = 100>
+<img src = https://img.icons8.com/color/344/c-plus-plus-logo.png width = 100 height = 100>
 <img src = https://img.icons8.com/color/344/python--v1.png width = 100 height = 100>
 <img src = https://img.icons8.com/color/344/html-5--v1.png width = 100 height = 100>
 <img src = https://img.icons8.com/color/344/css3.png width = 100 height = 100>
