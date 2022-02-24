@@ -53,7 +53,7 @@
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juz-Tom-J&theme=yellow" alt="Juz-Tom-J" />></a><br>
+<a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Juz-Tom-J&theme=dark" alt="Juz-Tom-J" />></a><br>
 
 <a href="https://github.com/Juz-Tom-J/github-readme-stats"><img alt="Justin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juz-Tom-J&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
